@@ -1,0 +1,115 @@
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\Stress1.xml ------------------------
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 6  errors---------------------------
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\Stress2.xml ------------------------
+********Error : The String of type is illegal!Error happens at Line-->15    Col-->93********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 7  errors---------------------------
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\Stress3.xml ------------------------
+********Error : The String of type is illegal!Error happens at Line-->15    Col-->93********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 7  errors---------------------------
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\1\Stress6.xml ------------------------
+********Error : The String of type is illegal!Error happens at Line-->15    Col-->93********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 7  errors---------------------------
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\1\Stress7.xml ------------------------
+********Error : The String of type is illegal!Error happens at Line-->15    Col-->93********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 7  errors---------------------------
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\1\5\Stress10.xml ------------------------
+********Error : The String of type is illegal!Error happens at Line-->15    Col-->93********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 7  errors---------------------------
+
+----------fileName : C:\JAVA\workplace\dom4j\XML\1\5\Stress9.xml ------------------------
+********Error : The String of type is illegal!Error happens at Line-->15    Col-->93********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The fileSize is less than 0 !Error happens at Line-->20    Col-->96********
+********Error : The fileSize is not a number !Error happens at Line-->26    Col-->111********
+********Error : The holeSize cannot be larger than fileSize!Error happens at Line-->26    Col-->111********
+********Error : The position of hole is illegal !Error happens at Line-->30    Col-->110********
+Choice : 1.begin  2.middle  3.end  4.random
+********Error : The String of type is illegal!Error happens at Line-->51    Col-->97********
+Choice : 1.CreateDir  2.CreateDirEx  3.CopyFile  4.CopyFileEx 
+         5.CreateFile 6.CreateFileEx 7.CreateLargeFile  8.CreateLargeSeq 
+         9.CreateSparseFile  10.DeleteFile  11.DeleteFileEx  12.Exec
+********Error : The number of loop is less than -1! Error happens at Line-->57    Col-->31******
+--------------------------------------Total : 7  errors---------------------------
